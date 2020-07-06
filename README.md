@@ -1,4 +1,4 @@
-# CDDC 2020 Write Up
+# CDDC 2020 Write Ups
 Compiled by @debbiextan
 
 Category: Senior (Poly/Uni)  
