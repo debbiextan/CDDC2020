@@ -1,5 +1,5 @@
 # CDDC 2020 Write Ups
-Compiled by @debbiextan, @nicholasygd  
+Compiled by @debbiextan  
 Team: Bunk3
 
 Open Senior Category: Rank 38  
