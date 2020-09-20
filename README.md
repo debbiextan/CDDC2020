@@ -25,7 +25,7 @@ Here is a write up of the challenges I completed from the various gates during C
 ### Gate 4
 - OSINT
   - [OSINT-1](https://github.com/debbiextan/CDDC2020/blob/master/Gate4/OSINT-1.md)
-- Steganography
+- Forensics
   - [Visual Noise](https://github.com/debbiextan/CDDC2020/blob/master/Gate4/Visual%20Noise.md)
 
 ### Gate 3
